@@ -1,6 +1,6 @@
 # E-Commerce_Sales_Data_Analysis
 
-Madhav Store owner wants us to help them create a dashboard to track and analyze their online sales across India.
+E-Hub Store owner wants us to help them create a dashboard to track and analyze their online sales across India.
 
 
 Project Learnings : 
