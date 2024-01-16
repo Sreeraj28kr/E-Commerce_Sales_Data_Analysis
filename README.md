@@ -4,10 +4,11 @@ E-Hub Store owner wants us to help them create a dashboard to track and analyze 
 
 ## Project Dashboard
 
-[E HUB Sales project.pdf](https://github.com/Sreeraj28kr/E-Commerce_Sales_Data_Analysis/files/13944918/E.HUB.Sales.project.pdf)
+<img width="720" alt="E HUB Sales project" src="https://github.com/Sreeraj28kr/E-Commerce_Sales_Data_Analysis/assets/153048765/b7535f72-5669-4c7c-adf8-d12d24538eea">
 
 
-Project Learnings : 
+## Project Learnings 
+
 📌Created interactive dashboard to track online sales data using Power BI.
 📌Used complex parameters to drill down in worksheet and customization using filters and slicers.
 📌Created connections, joined new tables, calculations to manipulate data and enable user driven parameters for visualization.
