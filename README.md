@@ -2,6 +2,10 @@
 
 E-Hub Store owner wants us to help them create a dashboard to track and analyze their online sales across India.
 
+## Project Dashboard
+
+[E HUB Sales project.pdf](https://github.com/Sreeraj28kr/E-Commerce_Sales_Data_Analysis/files/13944918/E.HUB.Sales.project.pdf)
+
 
 Project Learnings : 
 📌Created interactive dashboard to track online sales data using Power BI.
